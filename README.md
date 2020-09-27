@@ -3,6 +3,7 @@
 # Info
 
 This is a server restart notification script. The current notify restart times is:
+
 *14:30:00 - 30 min*
 *14:45:00 - 15 min*
 *14:55:00 - 5 min*
